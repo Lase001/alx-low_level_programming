@@ -2,8 +2,7 @@
 
 /**
  * main - Entry point of the program
- * Description: This function demonstrates pointer arithmetic
- *              and manipulation of array elements using pointers.
+ * Description: This function demonstrates pointer arithmetic and manipulation of array elements using pointers.
  * Return: Always returns 0 (success).
  */
 int main(void)
