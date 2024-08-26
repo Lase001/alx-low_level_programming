@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - Entry point of the program
  * Description: This function demonstrates pointer arithmetic
