@@ -6,7 +6,6 @@
  *              and manipulation of array elements using pointers.
  * Return: Always returns 0 (success).
  */
-
 int main(void)
 {
 	int n;
